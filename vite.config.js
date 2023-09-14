@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "https://mishka911.gitbuh.io/Creador-Tareas-REACT-VITE",
+  base: "/Creador-Tareas-REACT-VITE/",
 });
